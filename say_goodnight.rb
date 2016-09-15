@@ -1,5 +1,4 @@
 def say_goodnight(name)
-  result = "Good night, #{name.capitalize}" 
-  return result
+  "Good night, #{name.capitalize}" 
 end
-puts say_goodnight('uncle')
+puts say_goodnight('ma')
