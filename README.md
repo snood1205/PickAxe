@@ -10,4 +10,6 @@ This repository is my journey through the quintessential Ruby tome entitled __Pr
 
 ### Chapter 2: Ruby.new
 
-- [say\_goodnight](say_goodnight.rb)
+- [say goodnight](say_goodnight.rb)
+- [arrays and hashes](arrays_and_hashes.rb)
+- [symbols](symbols.rb)
