@@ -26,3 +26,9 @@ inst_section = {
 p inst_section['oboe']
 p inst_section['cello']
 p inst_section['bassoon']
+
+# Hash with non-nil default value
+histogram = Hash.new(0)   # the default value is zero
+p histogram['ruby']
+histogram['ruby'] = histogram['ruby'] + 1
+p histogram['ruby']
