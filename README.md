@@ -7,3 +7,7 @@ This repository is my journey through the quintessential Ruby tome entitled __Pr
 ### Chapter 1: Getting Started
 
 -[myprog](myprog.rb)
+
+### Chapter 2: Ruby.new
+
+- [say\_goodnight](say_goodnight.rb)
