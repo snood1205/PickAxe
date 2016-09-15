@@ -13,3 +13,4 @@ This repository is my journey through the quintessential Ruby tome entitled __Pr
 - [say goodnight](say_goodnight.rb)
 - [arrays and hashes](arrays_and_hashes.rb)
 - [symbols](symbols.rb)
+- [control structures](control_structure.rb)
